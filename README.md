@@ -12,3 +12,4 @@ pickel==1.3
 numpy==1.17.5
 import os
 ```
+Preprocessing.py contain the feature extraction from the audio files and saving it to the pickle format
