@@ -10,6 +10,5 @@ librosa==0.7.0
 python-speech-features==0.6
 pickel==1.3
 numpy==1.17.5
-import os
 ```
 Preprocessing.py contain the feature extraction from the audio files and saving it to the pickle format
